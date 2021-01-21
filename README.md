@@ -1,4 +1,4 @@
-# Soil-Moisture-Control
+# Soil Moisture Control
 
 *Read this in other languages: [English](README.en.md), [Romanian](README.md).*
 
