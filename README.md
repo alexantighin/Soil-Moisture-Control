@@ -6,11 +6,11 @@ Proiectul presupune implementarea unui sistem prin care utilizatorul poate ajust
 care acesta a scăzut poate alege să controleze pompa de apă în mod manual sau în mod automat. În modul manual, se poate porni și opri pompa în permanență. În modul automat, pompa va porni pentru o periodă de timp în care umiditatea solului va creste.
 
 ## Componente
-  - [Microcontroller XMC 2Go](#Microcontroller XMC 2Go)
-  - [Modul Bluetooh HC-05](#Modul Bluetooh HC-05)
-  - [Senzor umiditate sol](#Senzor umiditate sol)
-  - [Releu 5V](#Releu 5V)
-  - [Pompa de apa](#Pompa de apa)
+  - [Microcontroller XMC 2Go](#Microcontroller-XMC-2Go)
+  - [Modul Bluetooh HC-05](#Modul-Bluetooh-HC-05)
+  - [Senzor umiditate sol](#Senzor-umiditate-sol)
+  - [Releu 5V](#Releu-5V)
+  - [Pompa de apa](#Pompa-de-apa)
   
 ### Microcontroller XMC 2Go
 Acest microcontroller are rolul de a controla pompa de apa prin intermediul unui releu si de a prelua informatii de la senzorul de umiditate.
